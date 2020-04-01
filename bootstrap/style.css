@@ -1,0 +1,15 @@
+      .bg-image {
+        background-image: url(https://images.unsplash.com/photo-1571752351232-b6d28980561c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+        background-position: center;
+        background-size: cover;
+        color: white;
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+        margin-top: 56px;
+      }
+      /* .d-block {
+        height: 600px
+      } */
